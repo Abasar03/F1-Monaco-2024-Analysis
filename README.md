@@ -1,0 +1,2 @@
+# F1 Monaco 2024 Analysis
+ Monaco GP 2024 Qualifying Speed Comparison: Charles Leclerc vs Oscar Piastri  This project compares the qualifying speeds of Charles Leclerc and Oscar Piastri during the 2024 Monaco Grand Prix. Using Python, the data was analyzed, processed, and visualized in a comparative chart to showcase performance differences between the two drivers. The project demonstrates skills in data collection, analysis, and visualization.
